@@ -1,4 +1,3 @@
-GitHub 
 running hub接api实现
 无电脑低预算手机使用
 
